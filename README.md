@@ -18,6 +18,10 @@
 </div>
 
 <br><br>
+I'm also top 2% on TryHackMe :)<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/cguerrero.png" alt="Your Image Badge" />
+
+<br><br>
 
 ## 🙋‍♂️ About Me
 
