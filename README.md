@@ -1,5 +1,3 @@
-# 🙋‍♂️ Carlos Guerrero
-
 ## 👉 Tech Stack
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=aws)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
@@ -21,7 +19,7 @@
 
 <br><br>
 
-## ✏️ About Me
+## 🙋‍♂️ About Me
 
 Hi there! I'm currently working as a SysAdmin | DevOps at Flumotion.
 
