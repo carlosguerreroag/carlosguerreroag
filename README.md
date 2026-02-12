@@ -30,11 +30,4 @@ If you're interested in sharing ideas, projects, or opportunities in the Operati
 
 Thank you for visiting my profile! 🙌
 
-<br>
-
-## 📥 Contact Info
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlosguerreroaguilera/)
-- 💻 [GitHub](https://github.com/carlosguerreroag)
-
 ---
